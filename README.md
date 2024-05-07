@@ -227,4 +227,4 @@ signature\n ");
 ![image](https://github.com/IsaacAIML2023/Ex-04/assets/158465339/337034c5-ea1c-4332-a753-7c5b679325f2)
 
 ## RESULT:
-Thus program to implement the signature scheme named digital signature standard (Euclidean Algorithm) is implementeds successfully.
+Thus program to implement the signature scheme named digital signature standard (Euclidean Algorithm) is implementeds successfully.....
